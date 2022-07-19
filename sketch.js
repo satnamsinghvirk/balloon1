@@ -62,9 +62,10 @@ function readHeight(data){
   //Read value using data.val() 
   //Assign to x & y position of balloon
   /*Add your code after this line*/
+  data.val()
   balloon.x = position.x
   balloon.y = position.y
-
+  
 
   
   
